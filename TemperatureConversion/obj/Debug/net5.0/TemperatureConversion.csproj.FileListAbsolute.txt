@@ -1,0 +1,16 @@
+D:\Code\CITC-1312\TemperatureConversion\bin\Debug\net5.0\TemperatureConversion.exe
+D:\Code\CITC-1312\TemperatureConversion\bin\Debug\net5.0\TemperatureConversion.deps.json
+D:\Code\CITC-1312\TemperatureConversion\bin\Debug\net5.0\TemperatureConversion.runtimeconfig.json
+D:\Code\CITC-1312\TemperatureConversion\bin\Debug\net5.0\TemperatureConversion.runtimeconfig.dev.json
+D:\Code\CITC-1312\TemperatureConversion\bin\Debug\net5.0\TemperatureConversion.dll
+D:\Code\CITC-1312\TemperatureConversion\bin\Debug\net5.0\ref\TemperatureConversion.dll
+D:\Code\CITC-1312\TemperatureConversion\bin\Debug\net5.0\TemperatureConversion.pdb
+D:\Code\CITC-1312\TemperatureConversion\obj\Debug\net5.0\TemperatureConversion.csproj.AssemblyReference.cache
+D:\Code\CITC-1312\TemperatureConversion\obj\Debug\net5.0\TemperatureConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CITC-1312\TemperatureConversion\obj\Debug\net5.0\TemperatureConversion.AssemblyInfoInputs.cache
+D:\Code\CITC-1312\TemperatureConversion\obj\Debug\net5.0\TemperatureConversion.AssemblyInfo.cs
+D:\Code\CITC-1312\TemperatureConversion\obj\Debug\net5.0\TemperatureConversion.csproj.CoreCompileInputs.cache
+D:\Code\CITC-1312\TemperatureConversion\obj\Debug\net5.0\TemperatureConversion.dll
+D:\Code\CITC-1312\TemperatureConversion\obj\Debug\net5.0\ref\TemperatureConversion.dll
+D:\Code\CITC-1312\TemperatureConversion\obj\Debug\net5.0\TemperatureConversion.pdb
+D:\Code\CITC-1312\TemperatureConversion\obj\Debug\net5.0\TemperatureConversion.genruntimeconfig.cache
