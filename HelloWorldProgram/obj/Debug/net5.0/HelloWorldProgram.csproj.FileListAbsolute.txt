@@ -1,0 +1,16 @@
+D:\Code\CITC-1312\HelloWorldProgram\bin\Debug\net5.0\HelloWorldProgram.exe
+D:\Code\CITC-1312\HelloWorldProgram\bin\Debug\net5.0\HelloWorldProgram.deps.json
+D:\Code\CITC-1312\HelloWorldProgram\bin\Debug\net5.0\HelloWorldProgram.runtimeconfig.json
+D:\Code\CITC-1312\HelloWorldProgram\bin\Debug\net5.0\HelloWorldProgram.runtimeconfig.dev.json
+D:\Code\CITC-1312\HelloWorldProgram\bin\Debug\net5.0\HelloWorldProgram.dll
+D:\Code\CITC-1312\HelloWorldProgram\bin\Debug\net5.0\ref\HelloWorldProgram.dll
+D:\Code\CITC-1312\HelloWorldProgram\bin\Debug\net5.0\HelloWorldProgram.pdb
+D:\Code\CITC-1312\HelloWorldProgram\obj\Debug\net5.0\HelloWorldProgram.csproj.AssemblyReference.cache
+D:\Code\CITC-1312\HelloWorldProgram\obj\Debug\net5.0\HelloWorldProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CITC-1312\HelloWorldProgram\obj\Debug\net5.0\HelloWorldProgram.AssemblyInfoInputs.cache
+D:\Code\CITC-1312\HelloWorldProgram\obj\Debug\net5.0\HelloWorldProgram.AssemblyInfo.cs
+D:\Code\CITC-1312\HelloWorldProgram\obj\Debug\net5.0\HelloWorldProgram.csproj.CoreCompileInputs.cache
+D:\Code\CITC-1312\HelloWorldProgram\obj\Debug\net5.0\HelloWorldProgram.dll
+D:\Code\CITC-1312\HelloWorldProgram\obj\Debug\net5.0\ref\HelloWorldProgram.dll
+D:\Code\CITC-1312\HelloWorldProgram\obj\Debug\net5.0\HelloWorldProgram.pdb
+D:\Code\CITC-1312\HelloWorldProgram\obj\Debug\net5.0\HelloWorldProgram.genruntimeconfig.cache
