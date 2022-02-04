@@ -1,0 +1,16 @@
+D:\Code\CITC-1312\Calculate Dimensions\bin\Debug\net5.0\Calculate Dimensions.exe
+D:\Code\CITC-1312\Calculate Dimensions\bin\Debug\net5.0\Calculate Dimensions.deps.json
+D:\Code\CITC-1312\Calculate Dimensions\bin\Debug\net5.0\Calculate Dimensions.runtimeconfig.json
+D:\Code\CITC-1312\Calculate Dimensions\bin\Debug\net5.0\Calculate Dimensions.runtimeconfig.dev.json
+D:\Code\CITC-1312\Calculate Dimensions\bin\Debug\net5.0\Calculate Dimensions.dll
+D:\Code\CITC-1312\Calculate Dimensions\bin\Debug\net5.0\ref\Calculate Dimensions.dll
+D:\Code\CITC-1312\Calculate Dimensions\bin\Debug\net5.0\Calculate Dimensions.pdb
+D:\Code\CITC-1312\Calculate Dimensions\obj\Debug\net5.0\Calculate Dimensions.csproj.AssemblyReference.cache
+D:\Code\CITC-1312\Calculate Dimensions\obj\Debug\net5.0\Calculate Dimensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CITC-1312\Calculate Dimensions\obj\Debug\net5.0\Calculate Dimensions.AssemblyInfoInputs.cache
+D:\Code\CITC-1312\Calculate Dimensions\obj\Debug\net5.0\Calculate Dimensions.AssemblyInfo.cs
+D:\Code\CITC-1312\Calculate Dimensions\obj\Debug\net5.0\Calculate Dimensions.csproj.CoreCompileInputs.cache
+D:\Code\CITC-1312\Calculate Dimensions\obj\Debug\net5.0\Calculate Dimensions.dll
+D:\Code\CITC-1312\Calculate Dimensions\obj\Debug\net5.0\ref\Calculate Dimensions.dll
+D:\Code\CITC-1312\Calculate Dimensions\obj\Debug\net5.0\Calculate Dimensions.pdb
+D:\Code\CITC-1312\Calculate Dimensions\obj\Debug\net5.0\Calculate Dimensions.genruntimeconfig.cache
