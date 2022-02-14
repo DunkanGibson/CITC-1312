@@ -1,0 +1,16 @@
+D:\Code\CITC-1312\CalculatePay\bin\Debug\net5.0\CalculatePay.exe
+D:\Code\CITC-1312\CalculatePay\bin\Debug\net5.0\CalculatePay.deps.json
+D:\Code\CITC-1312\CalculatePay\bin\Debug\net5.0\CalculatePay.runtimeconfig.json
+D:\Code\CITC-1312\CalculatePay\bin\Debug\net5.0\CalculatePay.runtimeconfig.dev.json
+D:\Code\CITC-1312\CalculatePay\bin\Debug\net5.0\CalculatePay.dll
+D:\Code\CITC-1312\CalculatePay\bin\Debug\net5.0\ref\CalculatePay.dll
+D:\Code\CITC-1312\CalculatePay\bin\Debug\net5.0\CalculatePay.pdb
+D:\Code\CITC-1312\CalculatePay\obj\Debug\net5.0\CalculatePay.csproj.AssemblyReference.cache
+D:\Code\CITC-1312\CalculatePay\obj\Debug\net5.0\CalculatePay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CITC-1312\CalculatePay\obj\Debug\net5.0\CalculatePay.AssemblyInfoInputs.cache
+D:\Code\CITC-1312\CalculatePay\obj\Debug\net5.0\CalculatePay.AssemblyInfo.cs
+D:\Code\CITC-1312\CalculatePay\obj\Debug\net5.0\CalculatePay.csproj.CoreCompileInputs.cache
+D:\Code\CITC-1312\CalculatePay\obj\Debug\net5.0\CalculatePay.dll
+D:\Code\CITC-1312\CalculatePay\obj\Debug\net5.0\ref\CalculatePay.dll
+D:\Code\CITC-1312\CalculatePay\obj\Debug\net5.0\CalculatePay.pdb
+D:\Code\CITC-1312\CalculatePay\obj\Debug\net5.0\CalculatePay.genruntimeconfig.cache
