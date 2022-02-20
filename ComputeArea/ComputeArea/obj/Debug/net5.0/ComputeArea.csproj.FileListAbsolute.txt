@@ -1,0 +1,15 @@
+/Users/dunkangibson/RSCC/CITC-1312/ComputeArea/ComputeArea/bin/Debug/net5.0/ComputeArea.deps.json
+/Users/dunkangibson/RSCC/CITC-1312/ComputeArea/ComputeArea/bin/Debug/net5.0/ComputeArea.runtimeconfig.json
+/Users/dunkangibson/RSCC/CITC-1312/ComputeArea/ComputeArea/bin/Debug/net5.0/ComputeArea.runtimeconfig.dev.json
+/Users/dunkangibson/RSCC/CITC-1312/ComputeArea/ComputeArea/bin/Debug/net5.0/ComputeArea.dll
+/Users/dunkangibson/RSCC/CITC-1312/ComputeArea/ComputeArea/bin/Debug/net5.0/ref/ComputeArea.dll
+/Users/dunkangibson/RSCC/CITC-1312/ComputeArea/ComputeArea/bin/Debug/net5.0/ComputeArea.pdb
+/Users/dunkangibson/RSCC/CITC-1312/ComputeArea/ComputeArea/obj/Debug/net5.0/ComputeArea.csproj.AssemblyReference.cache
+/Users/dunkangibson/RSCC/CITC-1312/ComputeArea/ComputeArea/obj/Debug/net5.0/ComputeArea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dunkangibson/RSCC/CITC-1312/ComputeArea/ComputeArea/obj/Debug/net5.0/ComputeArea.AssemblyInfoInputs.cache
+/Users/dunkangibson/RSCC/CITC-1312/ComputeArea/ComputeArea/obj/Debug/net5.0/ComputeArea.AssemblyInfo.cs
+/Users/dunkangibson/RSCC/CITC-1312/ComputeArea/ComputeArea/obj/Debug/net5.0/ComputeArea.csproj.CoreCompileInputs.cache
+/Users/dunkangibson/RSCC/CITC-1312/ComputeArea/ComputeArea/obj/Debug/net5.0/ComputeArea.dll
+/Users/dunkangibson/RSCC/CITC-1312/ComputeArea/ComputeArea/obj/Debug/net5.0/ref/ComputeArea.dll
+/Users/dunkangibson/RSCC/CITC-1312/ComputeArea/ComputeArea/obj/Debug/net5.0/ComputeArea.pdb
+/Users/dunkangibson/RSCC/CITC-1312/ComputeArea/ComputeArea/obj/Debug/net5.0/ComputeArea.genruntimeconfig.cache
