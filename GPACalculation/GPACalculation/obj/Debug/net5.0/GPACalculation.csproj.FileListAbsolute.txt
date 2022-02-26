@@ -1,0 +1,15 @@
+/Users/dunkangibson/RSCC/CITC-1312/GPACalculation/GPACalculation/bin/Debug/net5.0/GPACalculation.deps.json
+/Users/dunkangibson/RSCC/CITC-1312/GPACalculation/GPACalculation/bin/Debug/net5.0/GPACalculation.runtimeconfig.json
+/Users/dunkangibson/RSCC/CITC-1312/GPACalculation/GPACalculation/bin/Debug/net5.0/GPACalculation.runtimeconfig.dev.json
+/Users/dunkangibson/RSCC/CITC-1312/GPACalculation/GPACalculation/bin/Debug/net5.0/GPACalculation.dll
+/Users/dunkangibson/RSCC/CITC-1312/GPACalculation/GPACalculation/bin/Debug/net5.0/ref/GPACalculation.dll
+/Users/dunkangibson/RSCC/CITC-1312/GPACalculation/GPACalculation/bin/Debug/net5.0/GPACalculation.pdb
+/Users/dunkangibson/RSCC/CITC-1312/GPACalculation/GPACalculation/obj/Debug/net5.0/GPACalculation.csproj.AssemblyReference.cache
+/Users/dunkangibson/RSCC/CITC-1312/GPACalculation/GPACalculation/obj/Debug/net5.0/GPACalculation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dunkangibson/RSCC/CITC-1312/GPACalculation/GPACalculation/obj/Debug/net5.0/GPACalculation.AssemblyInfoInputs.cache
+/Users/dunkangibson/RSCC/CITC-1312/GPACalculation/GPACalculation/obj/Debug/net5.0/GPACalculation.AssemblyInfo.cs
+/Users/dunkangibson/RSCC/CITC-1312/GPACalculation/GPACalculation/obj/Debug/net5.0/GPACalculation.csproj.CoreCompileInputs.cache
+/Users/dunkangibson/RSCC/CITC-1312/GPACalculation/GPACalculation/obj/Debug/net5.0/GPACalculation.dll
+/Users/dunkangibson/RSCC/CITC-1312/GPACalculation/GPACalculation/obj/Debug/net5.0/ref/GPACalculation.dll
+/Users/dunkangibson/RSCC/CITC-1312/GPACalculation/GPACalculation/obj/Debug/net5.0/GPACalculation.pdb
+/Users/dunkangibson/RSCC/CITC-1312/GPACalculation/GPACalculation/obj/Debug/net5.0/GPACalculation.genruntimeconfig.cache
