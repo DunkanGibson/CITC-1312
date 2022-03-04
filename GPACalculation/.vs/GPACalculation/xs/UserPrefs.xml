@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{B822F786-D074-4160-B96A-6C2FD8AFFA48}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="GPACalculation/Program.cs">
     <Files>
-      <File FileName="GPACalculation/Program.cs" Line="1" Column="1" />
+      <File FileName="GPACalculation/Program.cs" Line="45" Column="76" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,7 +18,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.GPACalculation FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.GPACalculation PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
