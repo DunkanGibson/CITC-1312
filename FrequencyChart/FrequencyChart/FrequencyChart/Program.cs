@@ -7,77 +7,83 @@ namespace FrequencyChart
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World!");
 
-            //Write("How many scores will you enter?");
+            int arraySize = numberOfValuesForArray();
 
-            //string sSize = ReadLine();
+            int[] numbers = new int[arraySize];
 
-            //int arraySize = Convert.ToInt32(sSize);
+            int[] counterForNumbers = new int[11];
 
-            //int[] score = new int[arraySize];
+            promptForNumbers();
 
-
-            int[] counterValues = new int[11];
+            createFrequnecyChart();
 
 
 
 
-            int n = -1;
-            while (n <= 0)
+            int numberOfValuesForArray()
             {
-                Console.Write("Enter number of values >0: ");
-                if (!int.TryParse(Console.ReadLine(), out n) || n <= 0)
-                {
-                    Console.WriteLine("Wrong number.");
-                    n = -1;
-                }
+                Console.Write("How many numbers will you enter: ");
+                return int.Parse(Console.ReadLine());
+
             }
-            int[] values = new int[n];
 
-
-            for (int i = 0; i < n; i++)
+            void promptForNumbers()
             {
-                int value = -1;
-                while (value < 0 || value > 10)
+                for (int i = 0; i < arraySize; i++)
                 {
-                    Console.Write("Enter value between 0 and 10: ");
-                    if (!int.TryParse(Console.ReadLine(), out value) || value < 0 || value > 10)
+
+                    int tester = -1;
+                    int valueEntered;
+                    bool sucess;
+
+                    while (tester == -1)
                     {
-                        Console.WriteLine("Wrong value.");
-                        value = -1;
+                        Console.Write("Enter a number between 0 and 10: ");
+                        sucess = int.TryParse(Console.ReadLine(), out valueEntered);
+
+
+                        if (!sucess)
+                        {
+                            Console.WriteLine("This is not a valid value!");
+
+                        }
+                        else if (valueEntered < 0 || valueEntered > 10)
+                        {
+                            Console.WriteLine("Please enter a number > 0 or < 10");
+                        }
+
+                        else
+                        {
+                            numbers[i] = valueEntered;
+                            break;
+                        }
+
                     }
+
                 }
-                values[i] = value;
             }
 
 
-
-
-
-            for (int i = 0; i < values.Length; i++)
+            void createFrequnecyChart()
             {
-                counterValues[values[i]]++;
-
-
-            }
-
-
-            for (int i = 0; i <= 10; i++)
-            {
-                Console.Write("{0} {1} ", i, counterValues[i]);
-                for (int j = 0; j < counterValues[i]; j++)
+                for (int i = 0; i < numbers.Length; i++)
                 {
-                    Console.Write("*");
+                    counterForNumbers[numbers[i]]++;
+
+
                 }
-                Console.WriteLine();
+
+                for (int i = 0; i <= 10; i++)
+                {
+                    Console.Write("{0} ", i, counterForNumbers[i]);
+                    for (int j = 0; j < counterForNumbers[i]; j++)
+                    {
+                        Console.Write("*");
+                    }
+                    Console.WriteLine();
+                }
             }
-
-
-
-
-            Console.ReadLine();
-
 
         }
     }
