@@ -1,0 +1,10 @@
+D:\Code\CITC-1312\Color Changer\bin\Debug\Color Changer.exe.config
+D:\Code\CITC-1312\Color Changer\bin\Debug\Color Changer.exe
+D:\Code\CITC-1312\Color Changer\bin\Debug\Color Changer.pdb
+D:\Code\CITC-1312\Color Changer\obj\Debug\Color Changer.csproj.AssemblyReference.cache
+D:\Code\CITC-1312\Color Changer\obj\Debug\Color_Changer.Form1.resources
+D:\Code\CITC-1312\Color Changer\obj\Debug\Color_Changer.Properties.Resources.resources
+D:\Code\CITC-1312\Color Changer\obj\Debug\Color Changer.csproj.GenerateResource.cache
+D:\Code\CITC-1312\Color Changer\obj\Debug\Color Changer.csproj.CoreCompileInputs.cache
+D:\Code\CITC-1312\Color Changer\obj\Debug\Color Changer.exe
+D:\Code\CITC-1312\Color Changer\obj\Debug\Color Changer.pdb

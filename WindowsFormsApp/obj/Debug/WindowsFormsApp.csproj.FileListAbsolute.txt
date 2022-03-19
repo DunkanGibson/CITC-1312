@@ -1,0 +1,10 @@
+D:\Code\CITC-1312\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\Code\CITC-1312\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\Code\CITC-1312\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\Code\CITC-1312\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\Code\CITC-1312\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\Code\CITC-1312\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\Code\CITC-1312\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\Code\CITC-1312\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Code\CITC-1312\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\Code\CITC-1312\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
