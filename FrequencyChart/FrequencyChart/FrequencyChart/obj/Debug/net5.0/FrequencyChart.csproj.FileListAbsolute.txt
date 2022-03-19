@@ -1,0 +1,15 @@
+/Users/dunkangibson/RSCC/CITC-1312/FrequencyChart/FrequencyChart/FrequencyChart/obj/Debug/net5.0/FrequencyChart.csproj.AssemblyReference.cache
+/Users/dunkangibson/RSCC/CITC-1312/FrequencyChart/FrequencyChart/FrequencyChart/obj/Debug/net5.0/FrequencyChart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dunkangibson/RSCC/CITC-1312/FrequencyChart/FrequencyChart/FrequencyChart/obj/Debug/net5.0/FrequencyChart.AssemblyInfoInputs.cache
+/Users/dunkangibson/RSCC/CITC-1312/FrequencyChart/FrequencyChart/FrequencyChart/obj/Debug/net5.0/FrequencyChart.AssemblyInfo.cs
+/Users/dunkangibson/RSCC/CITC-1312/FrequencyChart/FrequencyChart/FrequencyChart/obj/Debug/net5.0/FrequencyChart.csproj.CoreCompileInputs.cache
+/Users/dunkangibson/RSCC/CITC-1312/FrequencyChart/FrequencyChart/FrequencyChart/bin/Debug/net5.0/FrequencyChart.deps.json
+/Users/dunkangibson/RSCC/CITC-1312/FrequencyChart/FrequencyChart/FrequencyChart/bin/Debug/net5.0/FrequencyChart.runtimeconfig.json
+/Users/dunkangibson/RSCC/CITC-1312/FrequencyChart/FrequencyChart/FrequencyChart/bin/Debug/net5.0/FrequencyChart.runtimeconfig.dev.json
+/Users/dunkangibson/RSCC/CITC-1312/FrequencyChart/FrequencyChart/FrequencyChart/bin/Debug/net5.0/FrequencyChart.dll
+/Users/dunkangibson/RSCC/CITC-1312/FrequencyChart/FrequencyChart/FrequencyChart/bin/Debug/net5.0/ref/FrequencyChart.dll
+/Users/dunkangibson/RSCC/CITC-1312/FrequencyChart/FrequencyChart/FrequencyChart/bin/Debug/net5.0/FrequencyChart.pdb
+/Users/dunkangibson/RSCC/CITC-1312/FrequencyChart/FrequencyChart/FrequencyChart/obj/Debug/net5.0/FrequencyChart.dll
+/Users/dunkangibson/RSCC/CITC-1312/FrequencyChart/FrequencyChart/FrequencyChart/obj/Debug/net5.0/ref/FrequencyChart.dll
+/Users/dunkangibson/RSCC/CITC-1312/FrequencyChart/FrequencyChart/FrequencyChart/obj/Debug/net5.0/FrequencyChart.pdb
+/Users/dunkangibson/RSCC/CITC-1312/FrequencyChart/FrequencyChart/FrequencyChart/obj/Debug/net5.0/FrequencyChart.genruntimeconfig.cache

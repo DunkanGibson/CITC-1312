@@ -1,0 +1,15 @@
+/Users/dunkangibson/RSCC/CITC-1312/PigLatinTranslator/PigLatinTranslator/bin/Debug/net5.0/PigLatinTranslator.deps.json
+/Users/dunkangibson/RSCC/CITC-1312/PigLatinTranslator/PigLatinTranslator/bin/Debug/net5.0/PigLatinTranslator.runtimeconfig.json
+/Users/dunkangibson/RSCC/CITC-1312/PigLatinTranslator/PigLatinTranslator/bin/Debug/net5.0/PigLatinTranslator.runtimeconfig.dev.json
+/Users/dunkangibson/RSCC/CITC-1312/PigLatinTranslator/PigLatinTranslator/bin/Debug/net5.0/PigLatinTranslator.dll
+/Users/dunkangibson/RSCC/CITC-1312/PigLatinTranslator/PigLatinTranslator/bin/Debug/net5.0/ref/PigLatinTranslator.dll
+/Users/dunkangibson/RSCC/CITC-1312/PigLatinTranslator/PigLatinTranslator/bin/Debug/net5.0/PigLatinTranslator.pdb
+/Users/dunkangibson/RSCC/CITC-1312/PigLatinTranslator/PigLatinTranslator/obj/Debug/net5.0/PigLatinTranslator.csproj.AssemblyReference.cache
+/Users/dunkangibson/RSCC/CITC-1312/PigLatinTranslator/PigLatinTranslator/obj/Debug/net5.0/PigLatinTranslator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dunkangibson/RSCC/CITC-1312/PigLatinTranslator/PigLatinTranslator/obj/Debug/net5.0/PigLatinTranslator.AssemblyInfoInputs.cache
+/Users/dunkangibson/RSCC/CITC-1312/PigLatinTranslator/PigLatinTranslator/obj/Debug/net5.0/PigLatinTranslator.AssemblyInfo.cs
+/Users/dunkangibson/RSCC/CITC-1312/PigLatinTranslator/PigLatinTranslator/obj/Debug/net5.0/PigLatinTranslator.csproj.CoreCompileInputs.cache
+/Users/dunkangibson/RSCC/CITC-1312/PigLatinTranslator/PigLatinTranslator/obj/Debug/net5.0/PigLatinTranslator.dll
+/Users/dunkangibson/RSCC/CITC-1312/PigLatinTranslator/PigLatinTranslator/obj/Debug/net5.0/ref/PigLatinTranslator.dll
+/Users/dunkangibson/RSCC/CITC-1312/PigLatinTranslator/PigLatinTranslator/obj/Debug/net5.0/PigLatinTranslator.pdb
+/Users/dunkangibson/RSCC/CITC-1312/PigLatinTranslator/PigLatinTranslator/obj/Debug/net5.0/PigLatinTranslator.genruntimeconfig.cache
