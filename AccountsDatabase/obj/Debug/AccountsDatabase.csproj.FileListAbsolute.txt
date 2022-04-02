@@ -1,0 +1,11 @@
+D:\Code\CITC-1312\AccountsDatabase\bin\Debug\Accounts.accdb
+D:\Code\CITC-1312\AccountsDatabase\bin\Debug\AccountsDatabase.exe.config
+D:\Code\CITC-1312\AccountsDatabase\bin\Debug\AccountsDatabase.exe
+D:\Code\CITC-1312\AccountsDatabase\bin\Debug\AccountsDatabase.pdb
+D:\Code\CITC-1312\AccountsDatabase\obj\Debug\AccountsDatabase.csproj.AssemblyReference.cache
+D:\Code\CITC-1312\AccountsDatabase\obj\Debug\AccountsDatabase.Form1.resources
+D:\Code\CITC-1312\AccountsDatabase\obj\Debug\AccountsDatabase.Properties.Resources.resources
+D:\Code\CITC-1312\AccountsDatabase\obj\Debug\AccountsDatabase.csproj.GenerateResource.cache
+D:\Code\CITC-1312\AccountsDatabase\obj\Debug\AccountsDatabase.csproj.CoreCompileInputs.cache
+D:\Code\CITC-1312\AccountsDatabase\obj\Debug\AccountsDatabase.exe
+D:\Code\CITC-1312\AccountsDatabase\obj\Debug\AccountsDatabase.pdb
