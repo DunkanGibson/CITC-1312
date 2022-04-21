@@ -3,9 +3,10 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron" style="">
-        <h1>
+        <h1 class="display-4">
             Majors and thier Respective Chairs
         </h1>
+        <p>Please see below to find the chair of your our Majors offered.</p>
 
 
 
