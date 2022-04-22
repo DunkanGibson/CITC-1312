@@ -1,18 +1,17 @@
 ﻿<%@ Page Title="Contact" Language="VB" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.vb" Inherits="Final_Project.Contact" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-    <h2><%: Title %></h2>
-    <p>Your contact page.</p>
+    <h2>Contact Us</h2>
 
     <address>
-        One Microsoft Way<br />
-        Redmond, WA 98052-6399<br />
+        276 Patton Lane<br />
+        Harriman, TN 37748-5011<br />
         <abbr title="Phone">P:</abbr>
-        425.555.0100
+        (865) 354-3000
     </address>
 
     <address>
-        <strong>Support:</strong><a href="mailto:Support@example.com">Support@example.com</a><br />
-        <strong>Marketing:</strong><a href="mailto:Marketing@example.com">Marketing@example.com</a>
+        <strong>Admissions:</strong><a href="mailto:onestop@roanestate.edu">onestop@roanestate.edu</a><br />
+        <strong>Bursar's Office:</strong><a href="mailto:businessoffice@roanestate.edu">businessoffice@roanestate.edu</a>
     </address>
 </asp:Content>
